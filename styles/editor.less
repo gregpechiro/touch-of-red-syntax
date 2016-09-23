@@ -97,20 +97,10 @@ atom-text-editor, // <- remove when Shadow DOM can't be disabled
 
 }
 
-// atom-text-editor::shadow {
-//     .comment.block,
-//     .punctuation.definition.comment,
-//     .comment.line.double-slash,
-//     .comment.line.double-slash .punctuation.definition.comment {
-//         color: @syntax-comment-text-color;
-//     }
-//
-//     .highlight.find-result .region {
-//         background: @syntax-highlight-find-bg;
-//     }
-//
-//     .highlight.current-result .region,
-//     .highlight.current-result ~ .highlight.selection .region {
-//         background: orange; // to distinguish from the other results
-//     }
-// }
+atom-text-editor::shadow {
+    .comment.block,
+    .comment.line,
+    .punctuation.definition.comment, {
+        color: @syntax-comment-text-color;
+    }
+}
