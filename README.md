@@ -6,3 +6,9 @@ None of the language syntax was changed. Only editor background, highlighting, c
 ##Screenshots
 
 ![touch of red screenshot 1](https://raw.githubusercontent.com/gregpechiro/touch-of-red-syntax/master/assets/screenshot1.png)
+
+![touch of red screenshot 2](https://raw.githubusercontent.com/gregpechiro/touch-of-red-syntax/master/assets/screenshot2.png)
+
+![touch of red screenshot 3](https://raw.githubusercontent.com/gregpechiro/touch-of-red-syntax/master/assets/screenshot3.png)
+
+![touch of red screenshot 4](https://raw.githubusercontent.com/gregpechiro/touch-of-red-syntax/master/assets/screenshot4.png)
