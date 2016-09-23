@@ -1,5 +1,8 @@
-# touch-of-red-syntax theme
+# Touch of Red syntax theme
 
-A short description of your theme.
+This is a dark syntax theme that adds red accents. It is based off of Atom's One Dark.
+None of the language syntax was changed. Only editor background, highlighting, cursor, and gutter colors.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+##Screenshots
+
+![touch of red screenshot 1](https://raw.githubusercontent.com/gregpechiro/touch-of-red-syntax/master/assets/screenshot1.png)
