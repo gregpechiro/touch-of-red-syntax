@@ -15,7 +15,7 @@ It is designed to go with the Touch of Red ui theme. See Bellow
 
 ![touch of red screenshot 4](https://raw.githubusercontent.com/gregpechiro/touch-of-red-syntax/master/assets/screenshot4.png)
 
-# Syntax theme and UI theme
+### Syntax theme and UI theme
 
 ![touch of red screenshot-combo 1](https://raw.githubusercontent.com/gregpechiro/touch-of-red-syntax/master/assets/screenshot-combo1.png)
 
