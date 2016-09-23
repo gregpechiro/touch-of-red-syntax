@@ -1,0 +1,16 @@
+{
+  "name": "touch-of-red-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A darl syntax theme with red accents",
+  "keywords": [
+    "syntax",
+    "dark",
+    "red"
+  ],
+  "repository": "https://github.com/gregpechiro/touch-of-red-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
