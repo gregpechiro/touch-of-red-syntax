@@ -1,8 +1,7 @@
 
 // Editor styles (background, gutter, guides)
 
-atom-text-editor, // <- remove when Shadow DOM can't be disabled
-:host {
+atom-text-editor { // <- remove when Shadow DOM can't be disabled
   background-color: @syntax-background-color;
   color: @syntax-text-color;
 
@@ -97,10 +96,10 @@ atom-text-editor, // <- remove when Shadow DOM can't be disabled
 
 }
 
-atom-text-editor::shadow {
-    .comment.block,
-    .comment.line,
-    .punctuation.definition.comment, {
+atom-text-editor.editor {
+    .syntax--comment.syntax--block,
+    .syntax--comment.syntax--line,
+    .syntax--punctuation.syntax--definition.syntax--comment, {
         color: @syntax-comment-text-color;
     }
 }
